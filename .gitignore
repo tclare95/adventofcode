@@ -1,0 +1,2 @@
+# ignore any text files - uploading them is not needed
+*.txt
